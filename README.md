@@ -1,4 +1,4 @@
-# Vinotrust Brand System
+# VinoTrust Brand System
 
 ## Logo
 
