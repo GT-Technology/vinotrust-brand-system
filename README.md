@@ -15,3 +15,7 @@ Our primary brand colors are Elm (#1f7891), off white (#f8f9fa) and dark grey (#
 ## Typography
 
 Primary font: [Google Nunito](https://fonts.google.com/specimen/Nunito)
+
+### Nunito
+
+Nunito is a key element in our brand. It works to maintain consistency, create clarity, and provides versatility as an accessible font.
