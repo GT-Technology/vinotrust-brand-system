@@ -6,6 +6,8 @@ VinoTrust is always one word with a capital V and a caplital T.
 
 Logo should be on nutural white or dark grey backgrounds only. The clearspace around the logo is equal to the cap height of the logo.
 
+![VinoTrust Logo](vt-logo-sm.gif)
+
 ## Colour
 
 Our primary brand colors are Elm (#1f7891), Alice Blue (#f8f9fa) and Midnight Express (#19223d). They are used to provide accessibility, simplicity, and consistency throughout all brand communications.
