@@ -4,7 +4,7 @@ VinoTrust is always one word with a capital V and a caplital T.
 
 ## Logo
 
-Logo should be on nutural white or dark grey backgrounds only. The clearspace around the logo is equal to the cap height of the logo.
+Logo should be on nutural white or dark grey backgrounds only. The clearspace around the logo is equal to the height of the logo.
 
 ![VinoTrust Logo](vt-logo-sm.png)
 
