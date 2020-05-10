@@ -2,17 +2,22 @@
 
 VinoTrust is always one word with a capital V and a caplital T.
 
-## Basic design principles
+## Basic service design principles
 VinoTrust aims to design services on three basic principles:
 
-### Usability
+### Simple
 Wherever possible we strive to make our designs simple to use, easy to navigate and intuitive.
  
-### Accessibility
+### Accessibile
 At all times we aim for inclusive designs that all users, regardless of ability, can access and use.
  
-### Responsiveness
-Our website is fully-responsive and device-agnostic. This means that regardless of how you choose to access our service – be it on a desktop, tablet or mobile - in the office, a warehouse, or out in the vineyard – you’ll have access to a fully-functional experience.
+### Functional
+This means that regardless of how you choose to access our service – be it on a desktop, tablet or mobile - in the office, a warehouse, or out in the vineyard – you’ll have access to a fully-functional experience.
+
+## Design goals
+* Create a design language that synthesizes good user centred design with VinoTrust brand values and principles.
+* Develop a single underlying approach that unifies the user experience across all services.
+* Provide a flexible foundation for innovation and brand expression to cater for a variety of different users.
 
 ## Logo
 
