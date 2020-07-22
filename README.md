@@ -19,19 +19,15 @@ This means that regardless of how you choose to access our service – be it on 
 * Develop a single underlying approach that unifies the user experience across all services.
 * Provide a flexible foundation for innovation and brand expression to cater for a variety of different users.
 
-## Logo
+## Colour palette
 
-Logo should be on nutural white or dark grey backgrounds only. The clearspace around the logo is equal to the height of the logo.
+Our primary brand colors are Endeavour Blue (#17599B) and Deep Sky Blue (#00C5EF). They are used to provide accessibility, simplicity, and consistency throughout all brand communications.
 
-![VinoTrust Logos](vt-logos.png)
-
-## Colour
-
-Our primary brand colors are Elm (#1f7891), Alice Blue (#f8f9fa) and Midnight Express (#19223d). They are used to provide accessibility, simplicity, and consistency throughout all brand communications.
-
-* ![#1f7891](https://placehold.it/48x15/1f7891/000000?text=+) Elm `#1f7891`
+* ![#17599B](https://placehold.it/48x15/17599B/000000?text=+) Endeavour Blue `#17599B`
+* ![#00C5EF](https://placehold.it/48x15/00C5EF/000000?text=+) Deep Sky Blue `#00C5EF`
+* ![#8DC63F](https://placehold.it/48x15/8DC63F/000000?text=+) Atlantis Green `#8DC63F`
+* ![#A8A5A5](https://placehold.it/48x15/A8A5A5/000000?text=+) Dark Grey `#A8A5A5`
 * ![#f8f9fa](https://placehold.it/48x15/f8f9fa/000000?text=+) Alice Blue `#f8f9fa`
-* ![#19223d](https://placehold.it/48x15/19223d/000000?text=+) Midnight Express `#19223d`
 
 ## Typography
 
