@@ -27,7 +27,7 @@ Our primary brand colors are Endeavour Blue (#17599B) and Deep Sky Blue (#00C5EF
 * ![#00C5EF](https://placehold.it/48x15/00C5EF/000000?text=+) Deep Sky Blue `#00C5EF`
 * ![#8DC63F](https://placehold.it/48x15/8DC63F/000000?text=+) Atlantis Green `#8DC63F`
 * ![#A8A5A5](https://placehold.it/48x15/A8A5A5/000000?text=+) Dark Grey `#A8A5A5`
-* ![#f8f9fa](https://placehold.it/48x15/f8f9fa/000000?text=+) Alice Blue `#f8f9fa`
+* ![#F8FAFC](https://placehold.it/48x15/F8FAFC/000000?text=+) Alice Blue `#F8FAFC`
 
 ## Typography
 
