@@ -1,6 +1,6 @@
 # VinoTrust Brand System
 
-VinoTrust is always one word with a capital V and a caplital T.
+VinoTrust is always one word with a capital V and a capital T.
 
 ## Basic service design principles
 VinoTrust aims to design services on three basic principles:
