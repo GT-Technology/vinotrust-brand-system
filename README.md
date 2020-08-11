@@ -21,10 +21,10 @@ This means that regardless of how you choose to access our service – be it on 
 
 ## Colour palette
 
-Our primary brand colors are Endeavour Blue (#17599B) and Deep Sky Blue (#00C5EF). They are used to provide accessibility, simplicity, and consistency throughout all brand communications.
+Our primary brand colors are Deep Sky Blue (#00C5EF) and Endeavour Blue (#17599B). They are used to provide accessibility, simplicity, and consistency throughout all brand communications.
 
-* ![#17599B](https://placehold.it/48x15/17599B/000000?text=+) Endeavour Blue `#17599B`
 * ![#00C5EF](https://placehold.it/48x15/00C5EF/000000?text=+) Deep Sky Blue `#00C5EF`
+* ![#17599B](https://placehold.it/48x15/17599B/000000?text=+) Endeavour Blue `#17599B`
 * ![#8DC63F](https://placehold.it/48x15/8DC63F/000000?text=+) Atlantis Green `#8DC63F`
 * ![#A8A5A5](https://placehold.it/48x15/A8A5A5/000000?text=+) Dark Grey `#A8A5A5`
 * ![#222222](https://placehold.it/48x15/222222/000000?text=+) Nero Grey `#222222`
@@ -33,7 +33,4 @@ Our primary brand colors are Endeavour Blue (#17599B) and Deep Sky Blue (#00C5EF
 ## Typography
 
 Primary font: [Google Nunito](https://fonts.google.com/specimen/Nunito)
-
-### Nunito
-
-Nunito is a key element in our brand. It works to maintain consistency, create clarity, and provides versatility as an accessible font.
+Secondary font: [Google Roboto](https://fonts.google.com/specimen/Roboto)
