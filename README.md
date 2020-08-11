@@ -32,5 +32,5 @@ Our primary brand colors are Deep Sky Blue (#00C5EF) and Endeavour Blue (#17599B
 
 ## Typography
 
-Primary font: [Google Nunito](https://fonts.google.com/specimen/Nunito)
-Secondary font: [Google Roboto](https://fonts.google.com/specimen/Roboto)
+* Primary font: [Google Nunito](https://fonts.google.com/specimen/Nunito)
+* Secondary font: [Google Roboto](https://fonts.google.com/specimen/Roboto)
